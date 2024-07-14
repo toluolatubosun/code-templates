@@ -18,17 +18,10 @@ Starters for my favorite tech stacks.
 
 [![Source Code](https://img.shields.io/badge/Source%20Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toluolatubosun/nodejs-graphql-boilertemplate)
 
-
 ## NestJS
 Coming Soon!
 
-## NestJS + GraphQL
-Coming Soon!
-
 ## Django
-Coming Soon!
-
-## Django + GraphQL
 Coming Soon!
 
 ## NextJS
